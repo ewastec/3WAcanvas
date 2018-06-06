@@ -1,0 +1,11 @@
+body{
+    background-color: gray;
+}
+container{
+    width: 80%;
+    margin: 0 auto;
+}
+#canvasSpace{
+    background-color: aliceblue;
+    border: 1px solid black;
+}
